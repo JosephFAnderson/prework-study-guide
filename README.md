@@ -12,8 +12,8 @@ N/A
 
 In order to use the webpage simple pick one of the 4 topics and begin to review the material provided about it. If you are not sure which topic to start with you can refer to the Chrome DevTools console tab. In order to open this, right click on your mouse and select inspect. You can also use the following shortcut depending on system:
 
-- MacOS: **Command + Option + I**
-- Windows: **Control + Shift + I**
+- MacOS: **Command + Option + i**
+- Windows: **Control + Shift + i**
 
 Once the window opens select the tab labeled 'Console' to view a list of the materials covered in the study guide and a reccomendation on what to study first.
 
